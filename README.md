@@ -1,4 +1,4 @@
-## LIVE DEMO :- <a href="">Jobby App</a>
+## LIVE DEMO :- <a href="https://swathi-jobby-app.netlify.app/">Jobby App</a>
 
 ### Refer to videos below:
 
@@ -421,5 +421,6 @@ Returns a response containing the job details
 > - Don't change the component folder names as those are the files being imported into the tests.
 > - **Do not remove the pre-filled code**
 > - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
-#   J o b b y - A p p  
- 
+>   #   J o b b y - A p p 
+>    
+>    
